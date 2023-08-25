@@ -1,8 +1,8 @@
- package com.thinking.machines.hr.dl.dao;
+ package com.ami.tech.hr.dl.dao;
 
-import com.thinking.machines.hr.dl.exceptions.*;
-import com.thinking.machines.hr.dl.interfaces.dao.*;
-import com.thinking.machines.hr.dl.interfaces.dto.*;
+import com.ami.tech.hr.dl.exceptions.*;
+import com.ami.tech.hr.dl.interfaces.dao.*;
+import com.ami.tech.hr.dl.interfaces.dto.*;
 import java.io.*;
 import java.util.*;
 

@@ -1,7 +1,7 @@
-package com.thinking.machines.hr.dl.interfaces.dao;
-import com.thinking.machines.hr.dl.exceptions.*;
+package com.ami.tech.hr.dl.interfaces.dao;
+import com.ami.tech.hr.dl.exceptions.*;
 import java.util.*;
-import com.thinking.machines.hr.dl.interfaces.dto.*;
+import com.ami.tech.hr.dl.interfaces.dto.*;
 public interface DesignationDAOInterface
 {
     public void add(DesignationDTOInterface designationDTO )throws DAOException;

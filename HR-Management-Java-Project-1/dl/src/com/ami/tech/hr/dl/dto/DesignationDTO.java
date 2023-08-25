@@ -1,5 +1,5 @@
-package com.thinking.machines.hr.dl.dto;
-import com.thinking.machines.hr.dl.interfaces.dto.*;
+package com.ami.tech.hr.dl.dto;
+import com.ami.tech.hr.dl.interfaces.dto.*;
 public class DesignationDTO implements DesignationDTOInterface
 {
 private int code;
